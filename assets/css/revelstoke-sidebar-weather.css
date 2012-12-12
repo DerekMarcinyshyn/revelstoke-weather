@@ -1,0 +1,15 @@
+.clear { clear: both; }
+.widget_revelstoke_sidebar_weather img { border-radius: 0!important; box-shadow: none!important; }
+.widget-area .widget_revelstoke_sidebar_weather p { margin-bottom: 0!important; }
+
+.revelstoke-weather-station { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+.revelstoke-weather-time { font-size: 12px; }
+.revelstoke-weather-sky { overflow: hidden; margin: 20px 0; }
+.revelstoke-weather-large-icon { float:left;}
+.revelstoke-weather-temp { float:right; font-size: 36px; margin-top: 34px; }
+.revelstoke-weather-sky-text { float:right; margin-top: -20px; }
+
+.widget_revelstoke_sidebar_weather h3 { margin-bottom: 10px!important; }
+.revelstoke-weather-extended-forecast { margin-bottom: 14px; }
+.revelstoke-weather-forecast-period { font-weight: bold; }
+.revelstoke-weather-forecast-icon img { margin: 4px 10px 0 0; }
