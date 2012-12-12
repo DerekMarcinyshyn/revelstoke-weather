@@ -2,9 +2,9 @@
 .widget_revelstoke_sidebar_weather img { border-radius: 0!important; box-shadow: none!important; }
 .widget-area .widget_revelstoke_sidebar_weather p { margin-bottom: 0!important; }
 
-.revelstoke-weather-station { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+.revelstoke-weather-station { font-size: 12px; font-weight: bold; }
 .revelstoke-weather-time { font-size: 12px; }
-.revelstoke-weather-sky { overflow: hidden; margin: 20px 0; }
+.revelstoke-weather-sky { overflow: hidden; margin: 10px 0; }
 .revelstoke-weather-large-icon { float:left;}
 .revelstoke-weather-temp { float:right; font-size: 36px; margin-top: 34px; }
 .revelstoke-weather-sky-text { float:right; margin-top: -20px; }
