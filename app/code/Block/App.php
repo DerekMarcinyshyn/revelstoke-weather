@@ -70,7 +70,7 @@ if ( ! class_exists( 'App' ) ) :
             add_action( 'init', array( $this, 'revelstoke_weather_css' ) );
 
             // check for update
-            //add_action( 'admin_init', array( $this, 'revelstoke_weather_updater' ) );
+            add_action( 'admin_init', array( $this, 'revelstoke_weather_updater' ) );
         }
 
         /**
