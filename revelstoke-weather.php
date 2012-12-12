@@ -64,7 +64,7 @@ require_once( REVELSTOKE_WEATHER_APP_PATH . '/code/Block/App.php' );
 require_once( REVELSTOKE_WEATHER_APP_PATH . '/code/View/Widget_Sidebar_Weather.php' );
 
 // Require updater class
-//include_once( REVELSTOKE_WEATHER_LIB_PATH . '/vendor/updater/updater.php' );
+include_once( REVELSTOKE_WEATHER_LIB_PATH . '/vendor/updater/updater.php' );
 
 // ====================================
 // = Initialize and setup application =
